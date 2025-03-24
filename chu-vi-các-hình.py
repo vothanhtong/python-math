@@ -17,7 +17,9 @@ def chu_vi_hinh_tron(r):
     # Tính chu vi hình tròn 
     return 2 * math.pi * r
 
-def chu_vi_hinh_binh_hanh²
+def chu_vi_hinh_binh_hanh(a,b):
+    # Tính chu vi hình bình hành 
+    return 2 * (a + b)
 
 def chu_vi_hinh_binh_hanh(a, b):
     # Tính chu vi hình bình hành 
